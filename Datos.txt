@@ -1,0 +1,6 @@
+---DATOS DEL USUARIO---
+Número: 96988205
+Saldo: 50 Lps. 
+Deuda: 0 Lps. 
+Internet: 5000 MB 
+Saldo Promocional: 0 Lps.
